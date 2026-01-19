@@ -20,3 +20,5 @@ Form completion progress bar
 Print-friendly PDF download
 
 Clean, responsive UI
+
+Live-https://innovate-with-pratyush002.github.io/QuickCV/
